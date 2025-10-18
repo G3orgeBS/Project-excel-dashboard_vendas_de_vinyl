@@ -32,7 +32,7 @@ Não foram considerados no projeto os custos fixos, apenas os custos variável e
 - **Total	9%**
 
 
-## Além disso, seria possível acrescentar no projeto cenários com possíveis propostas de melhorias para os próximos 6 meses.
+Além disso, seria possível acrescentar no projeto cenários com possíveis propostas de melhorias para os próximos 6 meses.
 
 > ## Cenários de Projeção (Próximos 6 Meses)
 
