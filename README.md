@@ -1,5 +1,5 @@
 # Dashboard para loja de vendas de vinyl
-Projeto fictício em Excel elaborado para simular um dashboard a partir de uma base de dados em formato .xlsx, mostrando o resumo das venda de uma loja de vinyl no ano de 2025.A loja está localizada na cidade de São Paulo (centro). 
+Projeto fictício em Excel elaborado para simular um dashboard a partir de uma base de dados em formato .xlsx, mostrando o resumo das venda de uma loja de vinyl no ano de 2025.
 
 <img width="1360" height="583" alt="VinylShop_dashboard" src="https://github.com/user-attachments/assets/f279b83a-6760-4038-9ef4-67a1d5f66b77" />
 
