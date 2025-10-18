@@ -76,7 +76,7 @@ Não foram considerados no projeto os custos fixos, apenas os custos variável e
   ##
 
 <div align="center">
-⭐️ ***Se este projeto te ajudou, deixe uma estrela!*** ⭐️
+⭐️ Se este projeto te ajudou, deixe uma estrela! ⭐️
 
 <br/> 
 <div align="center">
